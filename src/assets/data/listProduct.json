@@ -1,0 +1,44 @@
+[
+    {
+        "marca":"CAT",
+        "producto":"Zapatillas Chatter",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/16948960?wid=249&hei=249&qlt=70"
+    },
+    {
+        "marca":"JUEGO DE COMEDOR NEW ISABEL",
+        "producto":"Huawei Y7p Black",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/17313479?wid=249&hei=249&qlt=70"
+    },
+    {
+        "marca":"JUEGO DE COMEDOR MARCAS",
+        "producto":"Huawei Y7p Black",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/17313479?wid=249&hei=249&qlt=70"
+    },
+    {
+        "marca":"RIPLEY",
+        "producto":"JUEGO DE COMEDOR JANICE MESA + 8 SILLAS",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/17230845?wid=249&hei=249&qlt=70"
+    },
+    {
+        "marca":"DONIFRIO",
+        "producto":"Legia clorox",
+        "precio":22.22,
+        "img":"https://admin.rahmangrocery.com/files/default%20%281%29.jpg"
+    },
+    {
+        "marca":"SAGA FAGABELLA",
+        "producto":"HYS COMEDOR 6 RENNES NOGAL",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/17230845?wid=249&hei=249&qlt=70"
+    },
+    {
+        "marca":"HOGARYSPACIOS",
+        "producto":"JUEGO DE COMEDOR RICHMOND 6 SILLAS",
+        "precio":22.22,
+        "img":"https://falabella.scene7.com/is/image/FalabellaPE/17230845?wid=249&hei=249&qlt=70"
+    }
+]

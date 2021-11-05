@@ -1,0 +1,95 @@
+.slick-prev:before{
+    font-size:35px !important;
+    color:#000 !important;
+  
+  }
+  .slick-next:before{
+    font-size:35px !important;
+    color:#000 !important;
+  }
+ .slick-next{
+    right:55px;
+  }
+ .slick-prev{
+    left: 0px;
+    z-index: 99;
+  }
+
+ul{
+    list-style: none;
+}
+body{
+  overflow-x: hidden;
+}
+.conten-app{
+  margin-top: 15px !important;
+}
+
+.content-input i{
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  background: #ffffff;
+  display: inline-block;
+  border-radius: 50%;
+  font-size: 21px;
+  text-align: center;
+  line-height: 35px;
+}
+
+.content-input i{
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  background: #ffffff;
+  display: inline-block;
+  border-radius: 50%;
+  font-size: 21px;
+  text-align: center;
+  line-height: 35px;
+}
+
+.content-input{
+  display:flex;
+  justify-content: center;
+}
+
+.button-menos,.button-mas{
+  color: #000 !important;
+  font-size:20px;
+  background: transparent !important;
+}
+.button-menos{
+  transform: translateX(64px) !important;
+}
+.button-mas{
+  transform: translateX(-64px) !important;
+}
+
+.amountProduct {
+  width: 20em;
+  justify-content: space-between;
+  background-color: #dedede;
+  text-align: center;
+  border: 5px solid transparent;
+  border-radius: 20px;
+}
+.greenCheck{
+  color:#59B359 ;
+}
+.obligatorioControl .v-label::after{
+  color: red;
+   content: "* ";
+}
+.footer-accion{
+  position: fixed;
+  bottom: 0px;
+}
+.form-content{
+  width: 96%;
+  margin: auto !important;
+}
+.v-navigation-drawer__content{
+
+  overflow-x: hidden;
+}
